@@ -1,2 +1,0 @@
-# Mortgage
-analyse the system
